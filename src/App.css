@@ -1,0 +1,22 @@
+h2 {
+  color: white;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse; /* Combina los bordes de las celdas */
+}
+
+.table th,
+.table td {
+  border: 3px solid #065454;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #2aa976;
+}
+.table td {
+  background-color: #99e0c4;
+}
